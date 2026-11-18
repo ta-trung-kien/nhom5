@@ -1,0 +1,10 @@
+target/
+data/studyroom.db
+data/studyroom.db-*
+data/export/
+data/booking-log.txt
+.idea/
+*.iml
+.classpath
+.project
+.settings/

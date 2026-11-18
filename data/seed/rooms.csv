@@ -1,0 +1,7 @@
+room_id,room_name,floor,capacity,room_type,status
+P101,Phòng tự học A,1,6,NORMAL,ACTIVE
+P102,Phòng tự học B,1,4,NORMAL,ACTIVE
+P201,Phòng máy chiếu 1,2,10,PROJECTOR,ACTIVE
+P202,Phòng máy chiếu 2,2,8,PROJECTOR,MAINTENANCE
+P301,Phòng họp seminar A,3,20,SEMINAR,ACTIVE
+P302,Phòng họp seminar B,3,12,SEMINAR,ACTIVE
